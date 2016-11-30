@@ -79,7 +79,7 @@ function initAutocomplete() {
   });
   var customMapTypeId = 'custom_style';
   var map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: 37.7642005, lng: -122.4217442},
+    center: {lat: 32.358383, lng: -86.158071},
     zoom: 17,
     mapTypeControlOptions: {
       mapTypeIds: [
